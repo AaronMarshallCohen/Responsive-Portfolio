@@ -35,7 +35,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color:cadetblue;
 }
 
 h1 {
@@ -75,7 +75,7 @@ h3 {
   color: #ffffff;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: cadetblue ;
 }
 
 nav {
@@ -107,7 +107,7 @@ footer {
   color: #cccccc;
   text-align: center;
   background: #666666;
-  border-top: 8px solid #4aaaa5;
+  border-top: 8px solid cadetblue;
   height: 50px;
 }
 
@@ -140,7 +140,7 @@ h3, h2 {
 .work {
   position: relative;
   float: left;
-  width: 274px;
+  width: 400px;
   margin: 20px 0 25px;
   overflow: auto;
 }
@@ -152,7 +152,7 @@ h3, h2 {
 .work img {
   width: 100%;
   border: 0 none;
-  opacity: 0.8;
+  
 }
 
 .work h3 {
@@ -165,8 +165,9 @@ h3, h2 {
   line-height: 30px;
   color: #ffffff;
   text-align: center;
-  background: #4aaaa5;
+  background: cadetblue;
   border-bottom: 0;
+  opacity: 0.9;
 }
 
 .auth-image {
@@ -213,7 +214,7 @@ input[type=submit] {
   font-size: 18px;
   color: #ffffff;
   cursor: pointer;
-  background: #4aaaa5;
+  background:cadetblue;
   border: 0 none;
 }
 @media screen and (max-width: 980px) {
