@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-This is my responsive portfolio assignment.
+This is my responsive portfolio.
